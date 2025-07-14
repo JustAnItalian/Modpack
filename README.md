@@ -1,3 +1,2 @@
 # Modpack
-Mods
 Hate Ziggers
