@@ -1,2 +1,2 @@
 # Modpack
-Hate Ziggers
+the modpack of all time
