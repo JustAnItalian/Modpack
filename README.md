@@ -1,2 +1,2 @@
 # Modpack
-the modpack of all time
+Get the mods from the release section
