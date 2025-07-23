@@ -1,5 +1,7 @@
 # Official EC MC Server Modpack
 
+## THIS IS THE OFFICIAL INSTALL GUIDE FOR THE MODPACK, MAKE SURE TO READ IT CAREFULLY!
+
 - Step 1: Install the Modpack.rar file from the releases section on the right
   
 - Step 1.1: Install Forge Version 1.20.1 **47.4.0** (AKA the recommended one on the forge site)
