@@ -6,7 +6,7 @@
   
 - Step 1.1: Install Forge Version 1.20.1 **47.4.0** from the Other_files.rar (the vs_100kg is just a datapack, you dont need it)
   
-- Step 1.2: Execute the **forge-1.20.1-47.4.0-installer.jar** file and install the Forge Client, **making sure to launch the Minecraft forge installation once before installing the mods** (The mods folder doesn't show up if you don't)
+- Step 1.2: Execute the **forge-1.20.1-47.4.0-installer.jar** file and install the Forge Client (press OK without clicking anything), **making sure to launch the Minecraft forge installation once before installing the mods** (The mods folder doesn't show up if you don't)
   
 - Step 2: Look for the .minecraft folder by pressing Win + R and typing "%appdata%" in the search bar and pressing enter
   
